@@ -1,5 +1,1 @@
-[providers]
-providers = ['php', 'node']
 
-[phases.setup]
-nixPkgs = ['...', 'php83Extensions.bcmath', 'php83Extensions.pdo_mysql']
